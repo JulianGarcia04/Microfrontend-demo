@@ -1,0 +1,17 @@
+{
+  "name": "micro-frontends-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "emulator": "firebase emulators:start",
+    "start:next": "cd authentication && npm run dev",
+    "start:quasar": "cd dashboard && npm run dev"
+  },
+  "keywords": [],
+  "author": "Julian Garcia <jcgrrincon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qiankun": "^2.10.11"
+  }
+}
