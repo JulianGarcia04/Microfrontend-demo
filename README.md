@@ -1,7 +1,7 @@
 # Microfrontend-demo
 I was tested with microfroend architecture using module federation plugin by webpack
 
-![Descripción de la imagen](https://picsum.photos/800/600](https://res.cloudinary.com/practicaldev/image/fetch/s--N_QDejG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/avgehx5v0vr94mpjb18l.png))
+<image src="https://res.cloudinary.com/practicaldev/image/fetch/s--N_QDejG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/avgehx5v0vr94mpjb18l.png" alt="Descripción de la imagen">
 
 # Conclusion
 Module federation plugin in differents frameworks such us Vue, react; or frameworks hardest such us Quasar or NextJS
