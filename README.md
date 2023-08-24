@@ -7,6 +7,21 @@ I was tested with microfroend architecture using module federation plugin by web
 </p>
 
 
+# technologies
+
+  - NextJS (authentication folder)
+  - Quasar Framework (dashboard and checkout folder)
+  - firebase
+  - firebase emulator
+
+
+# Why firebase
+I used firebase because the proposal of the project was create a system of authentication with firebase auth
+where can share the state auth between differents projects, but the auth methods dont provide this mode, the 
+unique solution is do a custom token authenticator with firebase, but i want test doing a solution using microfrotends
+then because that the project is firebase sdk
+
+
 # Conclusion
 Module federation plugin in differents frameworks such us Vue, react; or frameworks hardest such us Quasar or NextJS
 module federation dont work and I undertand because microfrontend architecture has a usecase with context in where the differents
