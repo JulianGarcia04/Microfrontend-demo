@@ -29,7 +29,7 @@ projects has a differents version to the same framework is a myth that you use t
 or in this case module federation plugin, because module federation plugin is only in webpack 5 and is obviously that the differents
 version to framework work with differents webpack version and some frameworks is adapted for work with a webpack version in specfic
 such us case quasar that in his version one work and only work with webpack 4 then dont use module federation plugin.
-Only i could run the module federation in projects with equals versions in this using quasar v2. In this the folder name of each one
+Only i could run the module federation in projects with quasar versions of version 2 onwards because this version has webpack 5. In this the folder name of each one
 of projects is "dashboard" and "checkout".
 
 My conclusion can change because i am starting in the microfrontends world, this is my first conclusion i going to test with others 
