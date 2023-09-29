@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "emulator": "firebase emulators:start",
+    "emulator": "cd functions && npm run build && firebase emulators:start",
     "start:next": "cd authentication && npm run dev",
     "start:quasar": "cd dashboard && npm run dev"
   },
   "keywords": [],
   "author": "Julian Garcia <jcgrrincon@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "qiankun": "^2.10.11"
-  }
+  "license": "MIT"
 }
